@@ -1,7 +1,10 @@
 ## Dan Groze    
 
-  I'm currently a student at Makers Academy, going through the pleasures and hardships of learning to be a programmer.
-Looking forward to advancing my coding skills, meeting like-minded people in a work-friendly environment.
+  I've recently finished the Makers Academy coding course, one of Europe's top software engineering bootcamps, currently going through the pleasures and challenges of learning to be a programmer.
+  Looking forward to advancing my coding skills, meeting like-minded people in a work-friendly environment.
+
+[Link to my Github profile](https://github.com/dangroze)
+[Link to my Makers Academy Portfolio](https://github.com/dangroze/portfolio)
 
 ## Skills
 
@@ -21,12 +24,29 @@ by having the ability to lead a team and training my teammates to my likeness.
   
 ## Education
 
-#### Makers Academy (nov 2018 - )
+#### Makers Academy (jan 2019 - apr 2019)
 
-- Curious and passionate about code.
-- Fast, independent learner (Finished Codecademy's ruby course, makers' precourse material, reached rank 6 on codewars)
-- Ruby, Rails
-- RSpec
+During my coding journey so far, I've developed software mostly while pair programming, using practices like TDD (test driven development), followed the agile process with 2-day sprints for the major projects, and integrated the kanban board for team coordination and communication.
+
+--
+
+Technologies that I'm familiar with include: 
+
+- JavaScript
+- React 
+- Node
+- Ruby on Rails
+
+* Databases: 
+- Postgres
+- NoSQL(MongoDB, Firebase)
+
+* Testing frameworks
+- Rspec
+- Capybara
+- Jasmine
+- Jest
+- Cypress 
 
 #### Civil Engineering 3 year unfinished degree (2007-2010)
 
