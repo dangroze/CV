@@ -3,7 +3,7 @@
   I've recently finished the Makers Academy coding course, one of Europe's top software engineering bootcamps, currently going through the pleasures and challenges of learning to be a programmer.
   Looking forward to advancing my coding skills, meeting like-minded people in a work-friendly environment.
 
-[Link to my Github profile](https://github.com/dangroze)
+[Link to my Github profile](https://github.com/dangroze)<br>
 [Link to my Makers Academy Portfolio](https://github.com/dangroze/portfolio)
 
 ## Skills
