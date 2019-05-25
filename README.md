@@ -48,7 +48,7 @@ Technologies that I'm familiar with include:
 - Jest
 - Cypress 
 
-#### Civil Engineering 3 year unfinished degree (2007-2010)
+#### Civil Engineering 3 year unfinished degree (2009 - 2012)
 
 ** Subjects studied
 - Engineering, Maths, Physics , Computer Science, Commercial Law, Statistics
@@ -56,6 +56,8 @@ Technologies that I'm familiar with include:
   Although it took me 3 full years to figure out that I don't want to have a carreer as a civil engineer, this period
 has taught me how to live on my own, to be independent and it has helped me figure out who I was and what I want to 
 focus my attention on in order to succeed in life.
+
+#### Liviu Rebreanu High School - Computer Science (2004 - 2008)
 
 #### Other qualifications
 
