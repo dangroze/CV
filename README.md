@@ -66,27 +66,27 @@ focus my attention on in order to succeed in life.
 2015 – 2018 Automatic Car Wash Manager
 IMO Car Wash UK Ltd, Ryde, Isle of Wight
 
--Training and managing the employees
--Having an excellent customer service
--Keeping site standards (cleaning, maintenance)
--Dealing with complaints
--Growing the business
--Pre-washing/valeting cars
--Ordering carwash chemicals and supplies
--Handling accidents in the carwash/ doing incident reports
--Dealing with money transactions
+- Training and managing the employees
+- Having an excellent customer service
+- Keeping site standards (cleaning, maintenance)
+- Dealing with complaints
+- Growing the business
+- Pre-washing/valeting cars
+- Ordering carwash chemicals and supplies
+- Handling accidents in the carwash/ doing incident reports
+- Dealing with money transactions
 
 2013– 2015 Car Wash Attendant/Valeter
 IMO Carwash UK Ltd, Hailsham
 
--Attending customers (customer service)
--Pre-washing cars
--Valeting
+- Attending customers (customer service)
+- Pre-washing cars
+- Valeting
 
 Aug 2011–Feb 2013 Night Receptionist
 Hilton-Royal Parade Hotel, Eastbourne
 
--Checking in/out customers
--Attending to customer's needs/complaints
--Cleaning reception/bar area
--Maintenance
+- Checking in/out customers
+- Attending to customer's needs/complaints
+- Cleaning reception/bar area
+- Maintenance 
