@@ -48,7 +48,7 @@ Technologies that I'm familiar with include:
 - Jest
 - Cypress 
 
-#### Civil Engineering 3 year unfinished degree (2009 - 2012)
+#### Civil Engineering 3 year unfinished degree (2008 - 2011)
 
 ** Subjects studied
 - Engineering, Maths, Physics , Computer Science, Commercial Law, Statistics
@@ -76,14 +76,14 @@ IMO Car Wash UK Ltd, Ryde, Isle of Wight
 -Handling accidents in the carwash/ doing incident reports
 -Dealing with money transactions
 
-2012– 2015 Car Wash Attendant/Valeter
+2013– 2015 Car Wash Attendant/Valeter
 IMO Carwash UK Ltd, Hailsham
 
 -Attending customers (customer service)
 -Pre-washing cars
 -Valeting
 
-Aug 2010–Feb 2012 Night Receptionist
+Aug 2011–Feb 2013 Night Receptionist
 Hilton-Royal Parade Hotel, Eastbourne
 
 -Checking in/out customers
