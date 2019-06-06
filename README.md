@@ -63,6 +63,15 @@ focus my attention on in order to succeed in life.
 
 ## Experience
 
+jan 2019 - apr 2019 Makers Academy Bootcamp
+
+apr 2018 - nov 2018  Customer Service Representative(part-time job)
+ONTRAK Recruitment(GTR Railroad associate)
+
+- Conducted a ticketless travel survey
+- Checking tickets
+- Assisting customers
+
 2015 – 2018 Automatic Car Wash Manager
 IMO Car Wash UK Ltd, Ryde, Isle of Wight
 
@@ -76,7 +85,7 @@ IMO Car Wash UK Ltd, Ryde, Isle of Wight
 - Handling accidents in the carwash/ doing incident reports
 - Dealing with money transactions
 
-2013– 2015 Car Wash Attendant/Valeter
+2013 – 2015 Car Wash Attendant/Valeter
 IMO Carwash UK Ltd, Hailsham
 
 - Attending customers (customer service)
