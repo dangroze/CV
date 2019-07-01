@@ -1,10 +1,12 @@
 ## Dan Groze    
 
-  I've recently finished the Makers Academy coding course, one of Europe's top software engineering bootcamps, currently going through the pleasures and challenges of learning to be a programmer.
+  Promising  junior developer,  recently graduated the Makers Academy coding course, one of Europe's top software engineering bootcamps. Highly motivated person, with a huge will to learn.
   Looking forward to advancing my coding skills, meeting like-minded people in a work-friendly environment.
 
+
 [Link to my Github profile](https://github.com/dangroze)<br>
-[Link to my Makers Academy Portfolio](https://github.com/dangroze/portfolio)
+[Link to my Makers Academy Portfolio](https://github.com/dangroze/portfolio)<br>
+[Link to my codewars profile](https://www.codewars.com/users/dangroze)
 
 ## Skills
 
@@ -24,7 +26,7 @@ by having the ability to lead a team and training my teammates to my likeness.
   
 ## Education
 
-#### Makers Academy (jan 2019 - apr 2019)
+#### jan 2019 - apr 2019 Makers Academy
 
 During my coding journey so far, I've developed software mostly while pair programming, using practices like TDD (test driven development), followed the agile process with 2-day sprints for the major projects, and integrated the kanban board for team coordination and communication.
 
@@ -48,7 +50,7 @@ Technologies that I'm familiar with include:
 - Jest
 - Cypress 
 
-#### Civil Engineering 3 year unfinished degree (2008 - 2011)
+#### Oct 2008 - Jul 2011 Civil Engineering 3 year unfinished degree
 
 ** Subjects studied
 - Engineering, Maths, Physics , Computer Science, Commercial Law, Statistics
@@ -57,7 +59,7 @@ Technologies that I'm familiar with include:
 has taught me how to live on my own, to be independent and it has helped me figure out who I was and what I want to 
 focus my attention on in order to succeed in life.
 
-#### Liviu Rebreanu High School - Computer Science (2004 - 2008)
+#### Sept 2004 - Jun 2008 Liviu Rebreanu High School - Computer Science
 
 #### Other qualifications
 
@@ -72,7 +74,7 @@ ONTRAK Recruitment(GTR Railroad associate)
 - Checking tickets
 - Assisting customers
 
-2015 – 2018 Automatic Car Wash Manager
+Aug 2015 – Feb 2018 Automatic Car Wash Manager
 IMO Car Wash UK Ltd, Ryde, Isle of Wight
 
 - Training and managing the employees
@@ -85,7 +87,7 @@ IMO Car Wash UK Ltd, Ryde, Isle of Wight
 - Handling accidents in the carwash/ doing incident reports
 - Dealing with money transactions
 
-2013 – 2015 Car Wash Attendant/Valeter
+Mar 2013 – Aug 2015 Car Wash Attendant/Valeter
 IMO Carwash UK Ltd, Hailsham
 
 - Attending customers (customer service)
