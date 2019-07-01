@@ -61,6 +61,9 @@ focus my attention on in order to succeed in life.
 
 #### Sept 2004 - Jun 2008 Liviu Rebreanu High School - Computer Science
 
+** Subjects studied:
+- Maths, Chemistry, Physics, English, Computer Science
+
 #### Other qualifications
 
 ## Experience
