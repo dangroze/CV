@@ -19,16 +19,16 @@ has taught me to not give up easily on a task, persistence gives results.
 
 #### Good communication
 
-  Having worked within a customer service based environment for the last 7 years, I've developed an ability to
+  Having worked within a customer service based environment for the last 9 years, I've developed an ability to
 convey my thoughts in a concise, direct manner. During my time working as a hotel receptionist, I've learned to 
-communicate professionally with customers from all around the world. This helped me in my future jobs and projects
+communicate professionally with customers from all around the world. This helped me in my next jobs and projects
 by having the ability to lead a team and training my teammates to my likeness.
   
 ## Education
 
 #### jan 2019 - apr 2019 Makers Academy
 
-During my coding journey so far, I've developed software mostly while pair programming, using practices like TDD (test driven development), followed the agile process with 2-day sprints for the major projects, and integrated the kanban board for team coordination and communication.
+During my coding journey so far, I've developed software mostly while pair programming, using practices like TDD (test driven development),OOP(object oriented programming),version control, followed the agile process with 2-day sprints for the major projects, and integrated the kanban board for team coordination and communication.
 
 --
 
@@ -36,7 +36,8 @@ Technologies that I'm familiar with include:
 
 - JavaScript
 - React 
-- Node
+- Node.JS
+- Ruby
 - Ruby on Rails
 
 * Databases: 
@@ -93,9 +94,6 @@ IMO Car Wash UK Ltd, Ryde, Isle of Wight
 Mar 2013 – Aug 2015 Car Wash Attendant/Valeter
 IMO Carwash UK Ltd, Hailsham
 
-- Attending customers (customer service)
-- Pre-washing cars
-- Valeting
 
 Aug 2011–Feb 2013 Night Receptionist
 Hilton-Royal Parade Hotel, Eastbourne
